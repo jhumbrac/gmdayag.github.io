@@ -1,0 +1,28 @@
+h1{
+	
+font-family: Gotham, sans-serif;
+font-size: 37px;
+font-weight: lighter;
+text-transform: uppercase;
+
+}
+
+h2{
+	
+font-family: Gotham, sans-serif;
+font-size: 24px;
+font-weight: bold;
+text-transform: uppercase;
+text-decoration: underline;
+
+}
+
+body{
+	
+font-family: Gotham, sans-serif;
+font-size: 16px;
+font-weight: 300;
+line-height: 26px;
+
+
+}
