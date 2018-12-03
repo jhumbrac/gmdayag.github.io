@@ -1,0 +1,88 @@
+
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+
+header {
+    background-color:  #ffffff;
+    border: 1px black solid;
+    padding: 20px;
+    font-style: center
+}
+nav {
+    background-color:  #ffffff;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#intro {
+    background-color: #666666;
+  	padding: 20px;
+
+}
+
+#skill_description {
+    background-color: #f2f2f2;
+    padding: 20px;
+
+}
+
+
+#sample_work {
+    background-color: #ffffff;
+    padding: 20px;
+
+}
+
+#other_skills {
+    background-color: #666666;
+    padding: 20px;
+
+}
+
+#to_connect {
+    background-color: #f2f2f2;
+    border: .5px white solid;
+    padding: 20px;
+
+}
+
+footer {
+    background-color: #666666;
+    border: .5px white solid;
+    padding: 20px;
+}
+
+h1{
+	
+font-family: Roboto, sans-serif;
+font-size: 37px;
+font-weight:bold;
+text-transform: uppercase;
+
+}
+
+h2{
+	
+font-family: Roboto, sans-serif;
+font-size: 24px;
+font-weight: bold;
+text-transform: uppercase;
+
+}
+
+h3{
+	
+font-family: Roboto, sans-serif;
+font-size: 24px;
+font-weight: normal;
+text-transform: uppercase;
+
+}
+
+body{
+	
+font-family: Roboto, sans-serif;
+font-size: 16px;
+font-weight: 300;
+line-height: 26px;
+
