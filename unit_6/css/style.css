@@ -48,6 +48,23 @@ nav: hover{
     padding: 100px
 }
 
+#intro_paragraph {
+    background-color: none;
+    float: left;
+    width: 300px;
+    height: 229px;
+    margin:25px; 
+    padding: 50px
+}
+
+#name {
+    background-color: none;
+    float: left;
+    width: 300px;
+    height: 229px;
+    margin:25px; 
+    padding: 50px
+}
 
 #skill_description {
     background-color: #ffffff;
