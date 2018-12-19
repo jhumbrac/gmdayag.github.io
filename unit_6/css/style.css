@@ -1,0 +1,148 @@
+
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+
+header {
+    background-color:  #ffffff;
+    border: 1px black solid;
+    padding: 20px;
+    font-style: center
+}
+nav {
+    background-color:  #ffffff;
+    border: 0px black solid;
+    padding: 20px;
+}
+
+nav a{ 
+    background-color: #ffffff;
+    color: 000000;
+    text-decoration: none;
+    display: block;
+    float: right;
+    padding: 20px 20px;
+
+}
+
+nav: hover{
+    text-decoration: underline;
+    color: #00aec7;
+}
+.clearfix:after {
+
+    visibility: hidden;
+    display: block;
+    content: "";
+    clear: both;
+    height: 0;
+    font-size: 0;
+}
+
+
+#intro {
+    background-color: #666666;
+    float: center;
+    width: 1480px;
+    height: 329px;
+    margin:0px; 
+    padding: 100px
+}
+
+
+#skill_description {
+    background-color: #ffffff;
+    float: center;
+    width: 1480px;
+    height: 400px;
+    margin:0px; 
+    padding: 100px;
+}
+
+
+#delta {
+   background-color: #f2f2f2;
+    float: center;
+    width: 1480px;
+    height: 400px;
+    margin:0px; 
+    padding: 100px;
+}
+#dentegra {
+   background-color: #ffffff;
+    float: center;
+    width: 1480px;
+    height: 400px;
+    margin:0px; 
+    padding: 100px;
+}
+
+#JPA {
+   background-color: #f2f2f2;
+    float: center;
+    width: 1480px;
+    height: 400px;
+    margin:0px; 
+    padding: 100px;
+}
+#other_skills {
+    background-color: #666666;
+    float: center;
+    width: 1480px;
+    height: 329px;
+    margin:0px; 
+    padding: 100px
+}
+
+#to_connect {
+    background-color: #ffffff;
+    float: center;
+    width: 1480px;
+    height: 329px;
+    margin:0px; 
+    padding: 100px
+
+}
+
+footer {
+    background-color: #f2f2f2;
+    float: center;
+    width: 1480px;
+    height: 50px;
+    margin:0px; 
+    padding: 100px
+}
+
+h1{
+	
+font-family: Roboto, sans-serif;
+font-size: 37px;
+font-weight:bold;
+text-transform: uppercase;
+
+}
+
+h2{
+	
+font-family: Roboto, sans-serif;
+font-size: 24px;
+font-weight: bold;
+text-transform: uppercase;
+
+}
+
+h3{
+	
+font-family: Roboto, sans-serif;
+font-size: 20px;
+font-weight: normal;
+text-transform: uppercase;
+
+}
+
+body{
+	
+font-family: Roboto, sans-serif;
+font-size: 16px;
+font-weight: 300;
+line-height: 26px;
+
